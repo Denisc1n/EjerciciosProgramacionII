@@ -16,7 +16,7 @@ namespace Ejercicio17
 
         public Boligrafo(short ink)
         {
-            this.SetTinta(ink);
+            this.SetTinta( ink );
         }
 
         public Boligrafo(ConsoleColor color, short tinta):this( tinta )
@@ -42,13 +42,22 @@ namespace Ejercicio17
 
         private void SetTinta( short amount )
         {
-            if (amount > 0 && (amount + this._tinta <= cantTintaMax))
+            if ( amount > 0 && ( amount + this._tinta > cantTintaMax ) )
+            {
+                this._tinta = 100;
+            }
+            else if ( ( amount < 0 && this._tinta + amount < 0 ) )
+            {
+                this._tinta = 0;
+            }
+            else if ( _tinta == 0 && amount > 0 )
+
             {
                 this._tinta += amount;
             }
-            else if ((amount < 0 && this._tinta - amount >= 0))
+            else
             {
-                this._tinta -= amount;
+                this._tinta += amount;
             }
         }
 
@@ -60,13 +69,24 @@ namespace Ejercicio17
 
         public bool Pintar(int gasto, out string dibujo)
         {
-            this.SetTinta((short)(gasto * -1));
-           
+            
+            //this.SetTinta( ( short )( gasto * -1 ) );
+            
             dibujo = string.Empty;
-            for (int i = 0; i < gasto; i++)
+            
+            while ( gasto > 0 )
             {
-                dibujo += "*";
+                dibujo += " * ";
+                
+                gasto--;
+                this._tinta--;
+                if ( gasto == 0 || this._tinta == 0 ) break;
             }
+            if ( gasto > 0  )
+            {
+                Console.WriteLine( "Falto tinta. {0} escrituras no fueron realizadas", gasto );
+            }
+           
             return true;
             /*El método Pintar(int, out string) restará la tinta gastada (reutilizar código SetTinta), sin
 poder quedar el nivel en negativo, avisando si pudo pintar (nivel de tinta mayor a 0).
