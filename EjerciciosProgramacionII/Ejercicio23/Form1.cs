@@ -61,7 +61,7 @@ namespace Ejercicio23
         private void btnConvPeso_Click(object sender, EventArgs e)
         {
             double inputPeso = 0;
-            double.TryParse(this.txtInputDolar.Text, out inputPeso);
+            double.TryParse(this.txtInputPeso.Text, out inputPeso);
 
             if (inputPeso == 0) return;
 
