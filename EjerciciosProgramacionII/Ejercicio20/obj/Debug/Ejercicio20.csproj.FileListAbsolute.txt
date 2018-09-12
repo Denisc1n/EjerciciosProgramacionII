@@ -1,0 +1,7 @@
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio20\bin\Debug\Ejercicio20.exe.config
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio20\bin\Debug\Ejercicio20.exe
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio20\bin\Debug\Ejercicio20.pdb
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio20\obj\Debug\Ejercicio20.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio20\obj\Debug\Ejercicio20.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio20\obj\Debug\Ejercicio20.exe
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio20\obj\Debug\Ejercicio20.pdb
