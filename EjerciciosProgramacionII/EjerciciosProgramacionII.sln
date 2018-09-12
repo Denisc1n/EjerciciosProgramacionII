@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio23", "Ejercicio23\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneda", "Moneda\Moneda.csproj", "{A244CCA4-FD1D-4240-9441-42F87BE28913}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio26", "Ejercicio26\Ejercicio26.csproj", "{0AE2A71D-431B-41E1-A5B5-9352E8CF62A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A244CCA4-FD1D-4240-9441-42F87BE28913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A244CCA4-FD1D-4240-9441-42F87BE28913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A244CCA4-FD1D-4240-9441-42F87BE28913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE2A71D-431B-41E1-A5B5-9352E8CF62A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE2A71D-431B-41E1-A5B5-9352E8CF62A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE2A71D-431B-41E1-A5B5-9352E8CF62A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE2A71D-431B-41E1-A5B5-9352E8CF62A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
