@@ -28,7 +28,7 @@ namespace Ejercicio17
             Console.WriteLine( d );
 
             d = "";
-            boligrafo = new Boligrafo( ConsoleColor.Red, 150 );
+            boligrafo.Recargar();
       
 
             Console.ReadKey();
