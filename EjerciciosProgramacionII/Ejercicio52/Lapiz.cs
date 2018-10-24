@@ -50,8 +50,8 @@ namespace Ejercicio52
 
         public EscrituraWrapper Escribir(string texto)
         {
-            int cantCaracteres = texto.Length;
-            this.leadAmount -= cantCaracteres;
+            float cantCaracteres = texto.Length;
+            this.leadAmount -= (float)(cantCaracteres*0.1) ;
             return new EscrituraWrapper(((IAcciones)this).Color, texto);
         }
 

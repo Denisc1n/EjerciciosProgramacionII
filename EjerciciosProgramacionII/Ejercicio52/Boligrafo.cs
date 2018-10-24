@@ -55,7 +55,7 @@ namespace Ejercicio52
         public EscrituraWrapper Escribir (string texto)
         {
             int cantCaracteres = texto.Length;
-            this.tinta -= cantCaracteres;
+            this.tinta -= (float)(cantCaracteres*0.1);
             return new EscrituraWrapper( this.Color, texto );
         }
 
