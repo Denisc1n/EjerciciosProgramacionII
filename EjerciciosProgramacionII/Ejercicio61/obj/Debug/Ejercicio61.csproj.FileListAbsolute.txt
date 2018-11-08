@@ -1,0 +1,10 @@
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio61\bin\Debug\Ejercicio61.exe.config
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio61\bin\Debug\Ejercicio61.exe
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio61\bin\Debug\Ejercicio61.pdb
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio61\obj\Debug\Ejercicio61.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio61\obj\Debug\Ejercicio61.Form1.resources
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio61\obj\Debug\Ejercicio61.Properties.Resources.resources
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio61\obj\Debug\Ejercicio61.csproj.GenerateResource.Cache
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio61\obj\Debug\Ejercicio61.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio61\obj\Debug\Ejercicio61.exe
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio61\obj\Debug\Ejercicio61.pdb
