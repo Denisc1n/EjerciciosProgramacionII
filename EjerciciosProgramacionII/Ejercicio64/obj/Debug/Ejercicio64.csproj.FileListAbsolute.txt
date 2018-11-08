@@ -1,0 +1,7 @@
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio64\bin\Debug\Ejercicio64.exe.config
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio64\bin\Debug\Ejercicio64.exe
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio64\bin\Debug\Ejercicio64.pdb
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio64\obj\Debug\Ejercicio64.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio64\obj\Debug\Ejercicio64.exe
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio64\obj\Debug\Ejercicio64.pdb
+D:\UTN\Programacion II\GuiaDeEjercicios\EjerciciosProgramacionII\EjerciciosProgramacionII\Ejercicio64\obj\Debug\Ejercicio64.csprojResolveAssemblyReference.cache

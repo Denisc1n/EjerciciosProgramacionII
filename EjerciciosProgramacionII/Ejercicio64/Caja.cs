@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio64
 {
-    class Caja
+    public class Caja
     {
         List<string> filaClientes;
 
@@ -28,7 +28,8 @@ namespace Ejercicio64
         {
             foreach (var item in this.GetClientes)
             {
-                Console.WriteLine("Atendiendo Cliente " + item );
+                Console.WriteLine("Atendiendo Cliente " + item + " Caja:" + Thread.CurrentThread.Name );
+
                 Thread.Sleep(2000);
             }
         }

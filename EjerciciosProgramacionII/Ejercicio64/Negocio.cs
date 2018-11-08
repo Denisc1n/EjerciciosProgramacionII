@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Ejercicio64
 {
-    class Negocio
+    public class Negocio
     {
         Caja cajaUno;
         Caja cajaDos;
@@ -36,6 +37,10 @@ namespace Ejercicio64
             {
                 return this.clientes;
             }
+            set
+            {
+                this.clientes = value;
+            }
         }
 
 
@@ -43,6 +48,7 @@ namespace Ejercicio64
         {
             this.cajaUno = cajaPrimera;
             this.cajaDos = cajaSegunda;
+            this.clientes = new List<string>();
         }
 
         public void AsignarClientes()
@@ -56,6 +62,8 @@ namespace Ejercicio64
 
                 else
                     cajaUno.GetClientes.Add(item);
+
+                Thread.Sleep( 1000 );
             }
         }
 
